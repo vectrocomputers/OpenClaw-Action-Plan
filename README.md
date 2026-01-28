@@ -1,5 +1,6 @@
 # moltbot-action-plan
 Practical guidance for operating moltbot effectively without sacrificing security or privacy.
+by Vectro - https://x.com/vectro | https://vectro.chat
 
 Designed for Ubuntu 22.04
 
