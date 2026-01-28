@@ -1,6 +1,8 @@
 # moltbot-action-plan
 Practical guidance for operating moltbot effectively without sacrificing security or privacy.
 
+Designed for Ubuntu 22.04
+
 Just insert this into your context with the bot via paste or as a document.
 
 # 🦞 Clawdbot Configuration Philosophy
