@@ -1,4 +1,4 @@
-# openclaw-action-plan
+# OpenClaw Action Plan
 Practical guidance for operating moltbot effectively without sacrificing security or privacy.
 by Vectro - https://x.com/vectro | https://vectro.chat
 
