@@ -1,8 +1,8 @@
 # OpenClaw Action Plan
-Practical guidance for operating moltbot effectively without sacrificing security or privacy.
+Practical guidance for operating OpenClaw effectively without sacrificing security or privacy.
 by Vectro - https://x.com/vectro | https://vectro.chat
 
-Designed for Ubuntu 22.04
+Designed for Ubuntu 24
 
 Just insert this into your context with the bot via paste or as a document.
 
